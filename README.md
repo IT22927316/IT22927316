@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **russapaypal@gmail.com**
 
-- ⚡ My Main GitHub Acc -> *https://github.com/Rusiru-DS*
+- ⚡ My Main GitHub Acc -> <a href="https://twitter.com/_bi_n_go_" target="blank">*Rusiru-DS*</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
