@@ -1,4 +1,4 @@
-<h1 align="center">Rusiru Kalendra Here! - Uni Account👋</h1>
+<h1 align="center">Rusiru Kalendra Here! 👋</h1>
 <h3 align="center">using for university assignments</h3>
 
 <p align="center">
@@ -12,8 +12,6 @@
 - 💬 Ask me about **MERN, Android, Figma**
 
 - 📫 How to reach me **russapaypal@gmail.com**
-
-- ⚡ My Main GitHub Acc -> <a href="https://github.com/Rusiru-DS" target="blank">*Rusiru-DS*</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
