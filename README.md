@@ -1,5 +1,4 @@
 <h1 align="center">Rusiru Kalendra Here! 👋</h1>
-<h3 align="center">using for university assignments</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rusiru-ds&label=Profile%20views&color=0e75b6&style=flat" alt="rusiru-ds" />
