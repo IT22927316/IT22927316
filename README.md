@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=rusiru-ds&label=Profile%20views&color=0e75b6&style=flat" alt="rusiru-ds" />
 </p>
 
----
+--- 
 
 - 🌱 I’m currently learning **Software Engineering @ SLIIT University**
 
